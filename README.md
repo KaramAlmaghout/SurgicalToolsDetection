@@ -41,10 +41,12 @@ Aamong other YOLO versions, YOLOv8 shows better performance in the speed and acc
 Tables 1 and 2 show comparison among YOLOv8 distributions in detection and segmentation, respectively.
 
 Table 1
+
 ![image](https://user-images.githubusercontent.com/94979970/229612692-dbb59e3f-f3fc-464e-8919-70e999985f15.png)
 
 
 Table 2
+
 ![image](https://user-images.githubusercontent.com/94979970/229612875-8e8c0c7f-a853-41ad-b428-8f46866a6768.png)
 
 In this project, the tools should be detected in a highly cluttered environment, so we will train YOLOv8x and YOLOv8l and compare the performance  
