@@ -6,7 +6,7 @@ AML Course - Course Project
 
 ## Introduction
 
-In this project, we aim to train YOLOv8 model to detect surgical tools, which can be further used to detect and track these tools during operations. 
+Surgical tool detection is an important task in computer vision and robotics research, as it has numerous applications in minimally invasive surgery and surgical robotics. In this report, we present a method for detecting surgical tools in real-time using the YOLOv8 deep learning algorithm.
 
 Applications of this project:
 
